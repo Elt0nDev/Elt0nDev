@@ -25,9 +25,7 @@ Estou começando agora na area de programação e estou bastante empenhado em de
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|------------|-------------|------|
-| **Nome do Projeto 1** | Breve descrição do que faz | React, Node.js | [Ver projeto](https://github.com/seu-usuario/projeto1) |
-| **Nome do Projeto 2** | Breve descrição do que faz | HTML, CSS, JS | [Ver projeto](https://github.com/seu-usuario/projeto2) |
-| **Nome do Projeto 3** | Breve descrição do que faz | Python | [Ver projeto](https://github.com/seu-usuario/projeto3) |
+| **Programação do Zero 1** | Criar um site para Starbucks | HTML, CSS , JS, TS,  | [Ver projeto](https://github.com/rodolfomori/starbucks-2025.git) |
 
 ---
 
@@ -35,7 +33,7 @@ Estou começando agora na area de programação e estou bastante empenhado em de
 
 - Email: eltoncr01@gmail.com 
 - LinkedIn: [linkedin.com/in/elton-silva-ameida](https://www.linkedin.com/in/elton-silva-almeida-76ab37175/)  
-- GitHub: [github.com/Elt0nDev](https://github.com/Elt0nDev/Elt0nDev/edit/main/README.md)
+- GitHub: [github.com/Elt0nDev](https://github.com/Elt0nDev)
 
 ---
 
