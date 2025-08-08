@@ -25,7 +25,7 @@ Estou começando agora na area de programação e estou bastante empenhado em de
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|------------|-------------|------|
-| **Programação do Zero 1** | Criar um site para Starbucks | HTML, CSS , JS, TS,  | [Ver projeto](https://github.com/rodolfomori/starbucks-2025.git) |
+| **Calculadora Simples** | Ferramentas Utilizadas | HTML, CSS ,JAVASCRIPT  | [Ver projeto](https://github.com/Elt0nDev/Calculadora-Simples/blob/main/README.md) |
 
 ---
 
