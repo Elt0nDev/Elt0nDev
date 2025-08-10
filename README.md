@@ -25,10 +25,9 @@ Estou começando agora na area de programação e estou bastante empenhado em de
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|------------|-------------|------|
-| **Calculadora Simples** | Ferramentas Utilizadas | HTML, CSS ,JAVASCRIPT  | [Ver projeto]() |
+| **Calculadora Simples** | Ferramentas Utilizadas | HTML, CSS ,JAVASCRIPT  |[Ver projeto](file:///C:/Users/elton/OneDrive/Desktop/cauculadora/Index.html) |
 
 ---
-
 ## 📫 Contato
 
 - Email: eltoncr01@gmail.com 
