@@ -25,7 +25,7 @@ Estou começando agora na area de programação e estou bastante empenhado em de
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|------------|-------------|------|
-| **Calculadora Simples** | Ferramentas Utilizadas | HTML, CSS ,JAVASCRIPT  | [Ver projeto](https://github.com/Elt0nDev/Calculadora-Simples/blob/main/README.md) |
+| **Calculadora Simples** | Ferramentas Utilizadas | HTML, CSS ,JAVASCRIPT  | [Ver projeto]() |
 
 ---
 
