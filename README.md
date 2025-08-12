@@ -26,6 +26,8 @@ Estou começando agora na area de programação e estou bastante empenhado em de
 | Projeto | Descrição | Tecnologias | Link |
 |--------|------------|-------------|------|
 | **Relogio Digital** | Ferramentas Utilizadas | HTML, CSS ,JAVASCRIPT  |[Ver projeto](https://github.com/Elt0nDev/relogio-digital-html-css-js-main) |
+| **Calculadora Basica** | Ferramentas Utilizadas | HTML, CSS ,JAVASCRIPT  |[Ver projeto](https://elt0ndev.github.io/Cauculadora/) |
+
 
 ---
 ## 📫 Contato
