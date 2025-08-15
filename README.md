@@ -5,6 +5,10 @@ Sou Estudante de Analise de Desenvolvimento de Sistemas pela Cruzeiro do Sul e a
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
+---
+
 ## 🧠 Sobre mim
 
 Olá! Meu nome é **Elton Silva**.  
@@ -13,12 +17,14 @@ Estou começando agora na area de programação e estou bastante empenhado em de
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-
-- HTML, CSS, JavaScript
-- React, Node.js
-- Git e GitHub
-- Python, TypeScript.
-
+<div 
+style="display: inline_block"><br>
+  <img align="center" alt="ELTON-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ELTON-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ELTON-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  
 ---
 
 ## 📂 Meus Projetos
@@ -32,11 +38,12 @@ Estou começando agora na area de programação e estou bastante empenhado em de
 ---
 ## 📫 Contato
 
-- Email: eltoncr01@gmail.com 
-- LinkedIn: [linkedin.com/in/elton-silva-ameida](https://www.linkedin.com/in/elton-silva-almeida-76ab37175/)  
-- GitHub: [github.com/Elt0nDev](https://github.com/Elt0nDev)
+<div> 
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "eltoncr01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elton-silva-almeida-76ab37175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
----
 
 ## 📝 Licença
 
